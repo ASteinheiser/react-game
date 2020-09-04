@@ -8,7 +8,7 @@
     "hammerjs": "^2.0.8",
     "lodash.clonedeep": "^4.5.0",
     "lodash.debounce": "^4.0.8",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.1",
     "react-app-rewired": "^2.1.0",
     "react-device-detect": "^1.6.2",
